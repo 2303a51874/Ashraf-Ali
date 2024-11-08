@@ -4,3 +4,4 @@ lab 3:https://github.com/2303a51874/Ashraf-Ali/blob/main/Lab3_AIML.ipynb
 lab 4:https://github.com/2303a51874/Ashraf-Ali/blob/main/LAB_AIML_4.ipynb
 lab 5:https://github.com/2303a51874/Ashraf-Ali/blob/main/Assignment_5.ipynb
 
+lab 7:https://github.com/2303a51874/Ashraf-Ali/blob/main/lab07.ipynb
