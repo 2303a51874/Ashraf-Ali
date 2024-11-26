@@ -7,3 +7,4 @@ lab 6:https://github.com/2303a51874/Ashraf-Ali/blob/main/Lab06-AIML.ipynb
 lab 7:https://github.com/2303a51874/Ashraf-Ali/blob/main/lab07.ipynb
 lab 8:https://github.com/2303a51874/Ashraf-Ali/blob/main/AIML_Assignment_08.ipynb
 lab 9:https://github.com/2303a51874/Ashraf-Ali/blob/main/Lab%2009.ipynb
+lab10:https://github.com/2303a51874/Ashraf-Ali/blob/main/Assignment_10.ipynb
